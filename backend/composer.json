@@ -1,0 +1,15 @@
+{
+    "name": "yoru/backend",
+    "autoload": {
+        "psr-4": {
+            "Yoru\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Necrozzyz",
+            "email": "necrozzycontact@proton.me"
+        }
+    ],
+    "require": {}
+}
